@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1671295299 source:d:\ka\cseproj\main.c
+	"Matrix.h"
+
+1671736514 d:\ka\cseproj\matrix.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1671739296 source:d:\ka\cseproj\matrix.c
+	"Matrix.h"
+
